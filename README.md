@@ -1,6 +1,3 @@
-# Repositório de Antonio
+# Desenvolvimento de Aplicações Web
 
-## Conteúdo do repositório
-
-1. Conteúdo 1
-2. Conteúdo 2
+Clone este repositório.
